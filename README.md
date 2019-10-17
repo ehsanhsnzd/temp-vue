@@ -1,6 +1,7 @@
 # template
 
-> crocket
+> tempalte
+
 
 ## Build Setup
 
